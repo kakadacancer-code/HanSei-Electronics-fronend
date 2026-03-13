@@ -10,7 +10,7 @@ const emit = defineEmits(["close"])
 <template>
   <div class="fixed inset-0 bg-black/40 flex items-center justify-center">
 
-    <div class="bg-white p-6 rounded-xl shadow w-[500px] space-y-3">
+    <div class="bg-gray-100 p-6 rounded-xl shadow w-[500px] space-y-3">
 
       <h2 class="text-xl font-bold">Request Detail</h2>
 

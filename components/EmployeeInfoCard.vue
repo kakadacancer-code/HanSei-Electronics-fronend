@@ -5,7 +5,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="p-6 bg-white rounded-xl shadow">
+  <div class="p-6 bg-gray-100 rounded-xl shadow">
     <h2 class="text-xl font-semibold mb-4 text-blue-600">Employee Information</h2>
 
     <div class="grid grid-cols-2 gap-4">

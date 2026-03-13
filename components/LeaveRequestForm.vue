@@ -28,7 +28,7 @@ const submit = () => {
 </script>
 
 <template>
-  <div class="p-6 bg-white rounded-xl shadow space-y-4">
+  <div class="p-6 bg-gray-100 rounded-xl shadow space-y-4">
 
     <h2 class="text-xl font-semibold text-blue-600">Leave Request</h2>
 
