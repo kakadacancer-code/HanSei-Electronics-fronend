@@ -1,8 +1,15 @@
+<script setup>
+import AppSidebar from "~/components/AppSidebar.vue"
+</script>
+
 <template>
-  <AppHeader />
-  <div>
-    <NuxtLink to="/"></NuxtLink>
-    <NuxtPage />
+  <div class="flex">
+    <AppSidebar />
+
+    <main class="flex-1 p-6">
+      <NuxtPage />
+    </main>
   </div>
-<AppFooter />
+
+  <AppFooter />
 </template>
