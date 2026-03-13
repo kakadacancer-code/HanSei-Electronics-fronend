@@ -1,8 +1,8 @@
+
 <template>
-  <AppHeader />
   <div>
-    <NuxtLink to="/"></NuxtLink>
-    <NuxtPage />
+    <AppAddEdit/>
+    <AppEmployees />
+    <Nuxtpage />
   </div>
-<AppFooter />
 </template>

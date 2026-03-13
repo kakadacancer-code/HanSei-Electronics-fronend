@@ -25,4 +25,6 @@ logs
 
 # ignore file
 package-lock.json
-tsconfig.json
+.nuxt
+.env
+node_modules
