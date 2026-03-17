@@ -1,3 +1,4 @@
+
 <script setup>
 import AppSidebar from "~/components/AppSidebar.vue"
 </script>
@@ -12,4 +13,12 @@ import AppSidebar from "~/components/AppSidebar.vue"
   </div>
 
   <AppFooter />
+</template>
+
+<template>
+  <div>
+    <AppAddEdit/>
+    <AppEmployees />
+    <Nuxtpage />
+  </div>
 </template>

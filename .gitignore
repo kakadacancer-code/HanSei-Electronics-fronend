@@ -25,3 +25,7 @@ logs
 
 # ignore file
 package-lock.json
+.nuxt
+.env
+node_modules
+
