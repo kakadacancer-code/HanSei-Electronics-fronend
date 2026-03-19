@@ -2,13 +2,17 @@
   <div class="p-6 md:p-10 bg-gray-100 min-h-screen">
 
     <!-- PAGE TITLE -->
-    <div class="mb-10">
+    <div class="mb-10 flex justify-between">
       <h1 class="text-2xl md:text-4xl font-bold text-gray-700">
         Employee Statistics Dashboard
-      </h1>
-      <p class="text-gray-500 mt-2 text-sm md:text-base">
+         <p class="text-gray-500 mt-2 text-sm md:text-base font-light">
         Overview of employee analytics and company performance
       </p>
+      </h1>
+     
+      <NuxtLink to="../page/AddEmployees">
+      <button class="block px-5 py-5 rounded-lg text-blue-600 font-medium hover:bg-blue-100 transition">Add Employees</button>
+      </NuxtLink>
     </div>
 
     <!-- TOP CARDS -->
