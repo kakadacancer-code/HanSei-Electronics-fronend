@@ -3,8 +3,8 @@
     
     <!-- Left -->
     <div class="flex items-center gap-3">
-      <div class="w-8 h-8 rounded-lg bg-indigo-500 flex items-center justify-center text-white font-bold">
-        N
+      <div class="w-8 rounded-lg bg-indigo-500 flex items-center justify-center text-white font-bold">
+        <img src="../assets/img/s.png" alt="">
       </div>
       <h1 class="text-base font-semibold text-gray-700">
         HanSei Electronics

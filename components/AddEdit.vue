@@ -11,7 +11,7 @@
       </h1>
      
       <NuxtLink to="/AddEmployees">
-      <button class="block px-5 py-5 rounded-lg text-blue-600 font-medium hover:bg-blue-100 transition">Add Employees</button>
+      <button class="block px-5 py-5 rounded-lg text-blue-600 font-medium hover:bg-blue-100 transition">+ Add Employees</button>
       </NuxtLink>
     </div>
 
