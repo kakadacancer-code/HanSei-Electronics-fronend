@@ -1,11 +1,13 @@
 
 <script setup>
-import AppSidebar from "~/components/AppSidebar.vue"
+import Sidebar from "~/components/Sidebar.vue"
+import Header from "~/components/Header.vue"
 </script>
 
 <template>
+  <Header />
   <div class="flex">
-    <AppSidebar />
+    <Sidebar />
 
     <main class="flex-1 p-6">
       <NuxtPage />
