@@ -9,7 +9,7 @@
       <NuxtLink to="/attendance" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
         Attendance
       </NuxtLink>
-      <NuxtLink to="/rostering" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
+      <NuxtLink to="/roster" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
         Roster
       </NuxtLink>
       <NuxtLink to="/leave-requests" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">

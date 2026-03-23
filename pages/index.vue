@@ -1,6 +1,8 @@
 <script setup>
-import Employees from '../components/Employees.vue';
 </script>
+
 <template>
-<Employees />
+  <div>
+    <Employees />
+  </div>
 </template>
