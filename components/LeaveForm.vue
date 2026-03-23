@@ -40,6 +40,7 @@ const submit = () => {
 .input {
   @apply border border-gray-300 rounded-lg p-3 w-full focus:ring-2 focus:ring-blue-300 focus:outline-none;
 }
+
 .btn-primary {
   @apply bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition;
 }
