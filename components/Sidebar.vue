@@ -3,7 +3,7 @@
     <h2 class="text-2xl font-bold mb-8 text-gray-800">HR Dashboard</h2>
 
     <nav class="space-y-4">
-      <NuxtLink to="/dashboard" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
+      <NuxtLink to="/" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
         Dashboard
       </NuxtLink>
       <NuxtLink to="/employees" class="block px-4 py-2 rounded-lg bg-blue-50 text-blue-600 font-medium hover:bg-blue-100 transition">
